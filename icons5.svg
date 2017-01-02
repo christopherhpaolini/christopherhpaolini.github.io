@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;stroke-width:4;}
+	.st2{clip-path:url(#SVGID_4_);}
+	.st3{font-family:'SuisseIntl-Black';}
+	.st4{font-size:63.45px;}
+	.st5{letter-spacing:3;}
+	.st6{fill:#231F20;}
+	.st7{font-size:38.6791px;}
+	.st8{letter-spacing:1;}
+	.st9{letter-spacing:2;}
+	.st10{clip-path:url(#SVGID_6_);}
+</style>
+<rect x="2" y="2" class="st0" width="96" height="96"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="100" height="100"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="2" y="2" class="st1" width="96" height="96"/>
+</g>
+<polygon class="st0" points="45.2,63.8 45.2,14.7 26.4,14.7 26.4,80 75.7,80 75.7,63.8 "/>
+<g>
+	<defs>
+		<polygon id="SVGID_3_" points="26.4,14.7 26.4,80 75.7,80 75.7,63.8 45.2,63.8 45.2,14.7 		"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st2">
+		<text transform="matrix(1 0 0 1 17.9814 48.6665)"><tspan x="0" y="0" class="st3 st4 st5">L</tspan><tspan x="42.6" y="0" class="st3 st4">L</tspan></text>
+	</g>
+	<g class="st2">
+		<text transform="matrix(1 0 0 1 99.3232 48.6665)" class="st6 st3 st7"> </text>
+	</g>
+	<g class="st2">
+		<text transform="matrix(1 0 0 1 15.0034 95.082)"><tspan x="0" y="0" class="st3 st7 st8">T</tspan><tspan x="27" y="0" class="st3 st7 st9">O</tspan><tspan x="60.4" y="0" class="st3 st7">P</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_5_" points="26.4,14.7 26.4,80 75.7,80 75.7,63.8 45.2,63.8 45.2,14.7 		"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st10">
+		<text transform="matrix(1 0 0 1 33.2725 48.6665)" class="st3 st4">↥</text>
+	</g>
+</g>
+</svg>

@@ -443,7 +443,7 @@ a img{
 	line-height: 14px;
 	margin-top: -62px;
 	margin-left: 50px;
-	margin-bottom: 0px;
+	margin-bottom: 62px;
 	outline-style: solid;
 	outline-width: 4px;
 	outline-color: white;
@@ -1255,6 +1255,21 @@ width: calc(100% + 100px);
 	font-size: 13px;
 	left: -10px;
 }
+.t_completed{
+	display: block;
+	width: 70px;
+	font-size: 12px;
+	background-color: yellow;
+	color: black;
+	font-family: 'Suisse_Bold';
+	left: 0;
+	line-height: 14px;
+	margin-top: -55px;
+	margin-left: 50px;
+	margin-bottom: 45px;
+	outline-style: solid;
+	outline-width: 4px;
+	outline-color: white;}
 }
 @media (max-width: 500px) {
 	#mobile_warning{

@@ -7,7 +7,7 @@
 	<![CDATA[
     @font-face {
         font-family: 'SuisseIntl-Bold';
-        src: SuisseIntl-Bold.otf;
+        src: url(SuisseIntl-Bold.otf);
     }
    ]]>
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.657;}

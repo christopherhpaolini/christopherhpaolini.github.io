@@ -244,6 +244,7 @@ a img{
 	font-family: "Suisse";
 	font-size: 20px;
 	line-height:28px;
+	z-index: -2;
 	color: black;
 	left: 50%;
 	top: 50%;
